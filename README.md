@@ -19,8 +19,7 @@ BSGO server|Launcher works with WINE|Temporary workaround|Linux support planned?
 [2.0 Resurrection](https://discord.gg/fhxpcb4SEr)|<font color=FF7F50>limited</font>|<font color=DC143C>no</font>|<font color=7FFF00>in development</font>
 
 **Note:**
-- My recommendation for Linux users is 2.0 Resurrection due to the much more secure launcher as well as the in-development Linux support.
-- Mementomori's BSGO launcher, while more feature-rich, has massive security issues, running on administrator privilges for literally no good reason at all. This is very dangerous, especially in combination with the auto-update feature. Use it at your own risk.
+This info might change, as both servers are undergoing active development. I will do my best to keep this information up-to-date.
 
 ## General Setup
 1. **Enable 32-bit architecture.** This is because the BSGO client contains some 32-bit executables. By default, modern Linux distributions block the execution of 32-bit code for security reasons and for "cleanness". But we're not clean, we're playing a very old game. Hence, we need to enable 32-bit.
