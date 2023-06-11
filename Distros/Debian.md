@@ -1,10 +1,10 @@
-## Debian-based
+# Debian-based
 **Examples:**
 - Ubuntu, Kubuntu, Xubuntu, ...
 - Linux Mint
 - PopOS
 
-### Instructions
+## Instructions
 Write in a terminal:
 ```bash
 # 1. enable 32-bit support

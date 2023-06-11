@@ -1,11 +1,11 @@
-### Arch-based
+# Arch-based
 **Examples:**
 - Arch Linux
 - Majaro
 - ElementaryOS
 - ArcoLinux
 
-### Instructions
+## Instructions
 To enable 32-bit architecture, you need to **enable multilib**. Follow [this guide](https://low-orbit.net/arch-linux-how-to-enable-multilib) for more infos.
 
 After you're done:
