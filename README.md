@@ -15,8 +15,8 @@ For Linux support, the custom launchers pose the greatest and pretty much the on
 
 BSGO server|Launcher works with WINE|Temporary workaround|Linux support planned?
 --|--|--|--
-[Mementomori](https://discord.gg/jsGGZZZ9xu)|<font color=FF7F50>limited</font>|PM me|<font color=DC143C>confirmed</font>
-[2.0 Resurrection](https://discord.gg/fhxpcb4SEr)|<font color=FF7F50>limited</font>|<font color=DC143C>no</font>|<font color=7FFF00>in development</font>
+[Mementomori](https://discord.gg/jsGGZZZ9xu)|<font color=FF7F50>limited</font>|PM me|<font color=DC143C>confirmed by Xulek</font>
+[2.0 Resurrection](https://discord.gg/fhxpcb4SEr)|<font color=FF7F50>limited</font>|<font color=DC143C>no</font>|<font color=7FFF00>confirmed by Cavil</font>
 
 **Note:**
 This info might change, as both servers are undergoing active development. I will do my best to keep this information up-to-date.
