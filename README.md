@@ -110,3 +110,15 @@ wine64 ./Launcher.exe
 ```
 
 If you can launch the launcher, you're good to go. Otherwise, you might need some extra steps.
+
+## Potential Issues
+### Hybrid Graphics
+Hybrid graphics, especially on Intel CPUs and NVIDIA GPUs, seems to cause problems for linux compatibility. If you receive cryptic Vulkan errors after launching `wine64 ./bsgo.exe`, you might want to force your dedicated GPU to run.
+
+For NVIDIA GPUs, make sure that your drivers are installed and up-to-date. Also, make sure that `prime-run` is installed:
+
+```sh
+prime-run 'wine64 ./bsgo.exe'
+```
+
+`prime-run` forces your NVIDIA GPU to run, which should boot up your game immediately.
