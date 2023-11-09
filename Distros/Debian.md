@@ -3,6 +3,7 @@
 - Ubuntu, Kubuntu, Xubuntu, ...
 - Linux Mint
 - PopOS
+- ElementaryOS
 
 ## Instructions
 Write in a terminal:

@@ -36,8 +36,8 @@ BSGO server|Launcher works with WINE|Temporary workaround|Linux support planned?
 4. **Install WINE.** In this guide, we will be installing a package called `winetricks`, which contains everything we need for BSGO.
 
 ### Instructions by Platform
-- [Debian-based](Distros/Debian.md) (Ubuntu, Linux Mint, PopOS, ...)
-- [Arch-based](Distros/Arch.md) (Arch, Manjaro, ElementaryOS, ArcoLinux, ...)
+- [Debian-based](Distros/Debian.md) (Ubuntu, Linux Mint, PopOS, ElementaryOS ...)
+- [Arch-based](Distros/Arch.md) (SteamOS, Manjaro, EndeavourOS, ArcoLinux, ...)
 - [Steam Deck+SteamOS](Distros/SteamDeck.md)
 
 For other platforms, find out how to perform steps 1-4 on your own.

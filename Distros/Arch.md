@@ -1,8 +1,9 @@
 # Arch-based
 **Examples:**
 - Arch Linux
+- SteamOS
 - Majaro
-- ElementaryOS
+- EndeavousOS
 - ArcoLinux
 
 ## Instructions
